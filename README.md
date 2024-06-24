@@ -9,7 +9,7 @@ This guide walks you through preparing your data and model for use with our tool
 | Expression Data       | Contains gene expression values for your samples.             | `.xlsx`, `.csv`                                       |
 | Organism Model        | Represents the metabolic network of your organism.           | `.xml (SBML)`, `.mat`                               |
 
-**Part 1: Modifying Expression Data**
+## Part 1: Modifying Expression Data 
 
 1. **Column Renaming:**
     - In your expression file (`.xlsx` or `.csv`), identify the column containing gene data. This column might be named "Gene symbols," "Gene names," "Probe_ids," or something similar.
@@ -19,28 +19,22 @@ This guide walks you through preparing your data and model for use with our tool
 2. **Column Selection:**
     - Keep only the "Gene" column and the columns containing expression values for each sample.
     - Remove any unnecessary columns with information unrelated to gene expression.
-| Model      | Example Modified Expression Data                               |
-|-----------|-------------------------------------------------------------------|
-| Recon3D   | ![Alt text](Figure1.png?raw=true "Example Modified Expression Data for Recon3D") |
-| iAF1260 (Escherichia Coli) | ![Alt text](Figure2.png?raw=true "Example Modified Expression Data for iAF1260 (Escherichia Coli)") |
 
-![Alt text](Figure1.png?raw=true "Example Modified Expression Data for Recon3D")
+Example Modified Expression Data for Recon3 : ![Alt text](Figure1.png?raw=true "Example Modified Expression Data for Recon3D")
 
-![Alt text](Figure2.png?raw=true "Example Modified Expression Data for  iAF1260 (Escherichia Coli)")
+Example Modified Expression Data for  iAF1260 (Escherichia Coli) : ![Alt text](Figure2.png?raw=true "Example Modified Expression Data for  iAF1260 (Escherichia Coli)")
 
-**Part 2: Organism Model**
+## Part 2: Organism Model
 
 1. **GPR Rules Requirement:**
     - Your chosen model must contain GPR (Gene-Protein-Reaction) rules to be compatible with our tool.
     - We support models in both `.xml` (SBML format) and `.mat` formats.
 
 2. **Model Selection:**
-    - You can find suitable models from publicly available repositories like BiGG Models and BioModels (as mentioned in our article).
+    - You can find suitable models from publicly available repositories like [BiGG Models](http://bigg.ucsd.edu/) and [BioModels](https://www.ebi.ac.uk/biomodels/) (as mentioned in our article).
+    - Here's an example of an E. coli model [iAF1260](http://bigg.ucsd.edu/models/iAF1260).
 
-3. **Example Model:**
-    - Here's an example of an E. coli model available at http://bigg.ucsd.edu/models/iAF1260.
-
-**Part 3: Running the Code**
+## Part 3: Running the Code
 
 - **Sequential Execution:**
     - Execute the code cells within your chosen environment (Jupyter Notebook or Google Colab) in the exact order they appear.
