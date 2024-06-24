@@ -19,6 +19,10 @@ This guide walks you through preparing your data and model for use with our tool
 2. **Column Selection:**
     - Keep only the "Gene" column and the columns containing expression values for each sample.
     - Remove any unnecessary columns with information unrelated to gene expression.
+| Model      | Example Modified Expression Data                               |
+|-----------|-------------------------------------------------------------------|
+| Recon3D   | ![Alt text](Figure1.png?raw=true "Example Modified Expression Data for Recon3D") |
+| iAF1260 (Escherichia Coli) | ![Alt text](Figure2.png?raw=true "Example Modified Expression Data for iAF1260 (Escherichia Coli)") |
 
 ![Alt text](Figure1.png?raw=true "Example Modified Expression Data for Recon3D")
 
