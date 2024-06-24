@@ -1,4 +1,15 @@
 # NONAME-Tool
+
+PUBLIC YAPTIKTAN SONRA COLAB EKLENECEK
+
+Makaleye link buraya eklenecek
+Cosider citing us if you use this tool in your research:
+ 
+```
+Citatation buraya gelecek
+But let's throw in a <b>tag</b>.
+```
+
 ## Using Our Tool for Metabolic Modeling
 
 This guide walks you through preparing your data and model for use with our tool.
