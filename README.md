@@ -20,6 +20,10 @@ This guide walks you through preparing your data and model for use with our tool
     - Keep only the "Gene" column and the columns containing expression values for each sample.
     - Remove any unnecessary columns with information unrelated to gene expression.
 
+![Alt text](Figure1.png?raw=true "Optional Title")
+
+![Alt text](Figure2.png?raw=true "Optional Title")
+
 **Part 2: Organism Model**
 
 1. **GPR Rules Requirement:**
