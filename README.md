@@ -1,6 +1,6 @@
 # FluxReal-Toolbox
 
-[Easy-to-Use Version in Google Colab](https://colab.research.google.com/drive/1wag8YWG-5yFAnSAbnUYl9ilQGObNYBwM?usp=sharing)
+--> [Easy-to-Use Version](https://colab.research.google.com/drive/1wag8YWG-5yFAnSAbnUYl9ilQGObNYBwM?usp=sharing) in Google Colab
 
 Cosider citing us if you use this tool in your research:
  
