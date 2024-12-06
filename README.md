@@ -1,8 +1,7 @@
 # FluxReal-Toolbox
 
-PUBLIC YAPTIKTAN SONRA COLAB EKLENECEK
+Easy-to-Use Version in Google Colab : https://colab.research.google.com/drive/1wag8YWG-5yFAnSAbnUYl9ilQGObNYBwM?usp=sharing
 
-Makaleye link buraya eklenecek
 Cosider citing us if you use this tool in your research:
  
 ```
