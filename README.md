@@ -5,8 +5,7 @@
 Cosider citing us if you use this tool in your research:
  
 ```
-Citatation buraya gelecek
-But let's throw in a <b>tag</b>.
+Oksuzoglu, A. D., Tekeli, A. C., Karabekmez, M. E. (2024). FluxReal: A Python Tool for Mapping Gene Expression Data to Metabolic Models. in press .
 ```
 
 ## Using Our Tool for Metabolic Modeling
