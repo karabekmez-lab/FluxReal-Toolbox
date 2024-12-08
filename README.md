@@ -2,7 +2,7 @@
 
 --> [Easy-to-Use Version](https://colab.research.google.com/drive/1wag8YWG-5yFAnSAbnUYl9ilQGObNYBwM?usp=sharing) in Google Colab
 
-Cosider citing us if you use this tool in your research:
+Consider citing us if you use this tool in your research:
  
 ```
 Oksuzoglu, A. D., Tekeli, A. C., Karabekmez, M. E. (2024). FluxReal: A Python Tool for Mapping Gene Expression Data to Metabolic Models. in press .
