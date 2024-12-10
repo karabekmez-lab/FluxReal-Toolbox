@@ -1,4 +1,4 @@
-# FluxReal-Toolbox
+# FluxReal
 
 --> [Easy-to-Use Version](https://colab.research.google.com/drive/1wag8YWG-5yFAnSAbnUYl9ilQGObNYBwM?usp=sharing) in Google Colab
 
